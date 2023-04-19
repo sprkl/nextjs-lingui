@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-04-19 18:22+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: cs\n"
+
+#: src/pages/index.tsx:40
+msgid "Checkout LinguiJS examples and usecases."
+msgstr ""
+
+#: src/pages/index.tsx:25
+msgid "Documentation →"
+msgstr ""
+
+#: src/lingui-example/components/Layout.tsx:14
+msgid "Example project using LinguiJS"
+msgstr ""
+
+#: src/pages/examples.tsx:10
+msgid "Examples"
+msgstr ""
+
+#: src/pages/index.tsx:37
+msgid "Examples →"
+msgstr ""
+
+#: src/pages/index.tsx:28
+msgid "Find in-depth information about LinguiJS features and API."
+msgstr ""
+
+#: src/pages/index.tsx:17
+msgid "Get started by editing <0>locale/en/messages.po</0>"
+msgstr ""
+
+#: src/pages/examples.tsx:14
+msgid "Plurals"
+msgstr ""
+
+#: src/lingui-example/components/Layout.tsx:32
+msgid "Powered by <0/>"
+msgstr ""
+
+#: src/pages/index.tsx:12
+msgid "Welcome to <0>LinguiJS!</0>"
+msgstr ""
+
+#: src/pages/examples.tsx:20
+#: src/pages/examples.tsx:32
+msgid "{value, plural, one {There's one book} other {There are # books}}"
+msgstr ""
